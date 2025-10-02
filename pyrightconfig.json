@@ -1,0 +1,17 @@
+{
+  "extraPaths": [
+    "C:/opt/ros/humble/x64/Lib/site-packages",
+    "C:/opt/ros/iron/x64/Lib/site-packages",
+    "C:/opt/ros/jazzy/x64/Lib/site-packages",
+    "C:/opt/ros/rolling/x64/Lib/site-packages",
+    "C:/opt/ros/humble/x64/Lib/site-packages/launch",
+    "C:/opt/ros/iron/x64/Lib/site-packages/launch",
+    "C:/opt/ros/jazzy/x64/Lib/site-packages/launch",
+    "C:/opt/ros/rolling/x64/Lib/site-packages/launch",
+    "C:/Users/Lennox/OneDrive/Desktop/school/ROBO DOJO/camera/robosync1/install/ament_index_python/lib/site-packages",
+    "C:/Users/Lennox/OneDrive/Desktop/school/ROBO DOJO/camera/robosync1/install/launch/lib/site-packages",
+    "C:/Users/Lennox/OneDrive/Desktop/school/ROBO DOJO/camera/robosync1/install/launch_ros/lib/site-packages",
+    "C:/Users/Lennox/OneDrive/Desktop/school/ROBO DOJO/camera/robosync1/install/xacro/lib/site-packages"
+  ]
+}
+
